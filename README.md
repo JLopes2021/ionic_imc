@@ -1,2 +1,3 @@
 # ionic_imc
-Projeto para estudos 
+
+Projeto criado para composição de Menção na disciplina de PWII
